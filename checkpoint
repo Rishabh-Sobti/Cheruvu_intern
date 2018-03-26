@@ -1,0 +1,2 @@
+model_checkpoint_path: "cheruvu_models"
+all_model_checkpoint_paths: "cheruvu_models"
